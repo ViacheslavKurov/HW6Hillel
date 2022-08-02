@@ -23,3 +23,4 @@ alert(a ** b);
 //alert(multiplication);
 //alert(division);
 //alert(degree);
+console.log('hello world');
