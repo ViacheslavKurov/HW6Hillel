@@ -1,0 +1,23 @@
+[33mcommit 718d37a701f167d24c483b4aa37eaf2774a624e1[m[33m ([m[1;36mHEAD -> [m[1;32mnew-feature[m[33m)[m
+Author: viacheslav Kurov <0990004793qw@gmail.com>
+Date:   Wed Aug 3 12:28:39 2022 +0300
+
+    added console
+
+[33mcommit c077ebb45ba75b51f271961d5a1f3fac21bf6a7f[m[33m ([m[1;32mfunction-sum[m[33m)[m
+Author: viacheslav Kurov <0990004793qw@gmail.com>
+Date:   Wed Aug 3 12:11:28 2022 +0300
+
+    added function sum
+
+[33mcommit cd9b229479ca41ad56fe92ad13d42c1c5fc8aaff[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: viacheslav Kurov <0990004793qw@gmail.com>
+Date:   Tue Aug 2 18:26:48 2022 +0300
+
+    added script.js
+
+[33mcommit e62e02f0a58873eb318b3c1c8b82b32f61ed1e0d[m
+Author: viacheslav Kurov <0990004793qw@gmail.com>
+Date:   Tue Aug 2 18:19:51 2022 +0300
+
+    added index.html
