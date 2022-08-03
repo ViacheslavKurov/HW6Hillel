@@ -24,3 +24,7 @@ alert(a ** b);
 //alert(division);
 //alert(degree);
 console.log('hello world');
+function sum(a,b){
+	return a+b;
+}
+console.log(sum(5,2))
