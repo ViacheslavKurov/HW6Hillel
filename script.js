@@ -24,3 +24,4 @@ alert(a ** b);
 //alert(division);
 //alert(degree);
 console.log('hello world');
+console.log('New feature') 
